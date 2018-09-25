@@ -1,0 +1,13 @@
+img {
+    width: 128px;
+}
+.img {
+    width: 300px;
+    border-color: #840505;
+    border-width: 3px;
+    border-style: double;
+}
+}
+.img2 {
+    width: 150px;
+}
